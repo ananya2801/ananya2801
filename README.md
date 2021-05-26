@@ -6,7 +6,7 @@
 ### Thanks 🥰 for viewing my profile! I am a third year 3️⃣ Undergraduate student studying Computer Science 👩🏽‍💻 with a  specialization in Software practice!📱
 
 #### 🔭 I’m currently working on E-cycle! This is a personal project with a goal to reduce the global warming impact of Electronic waste.
-#### 🌱 I’m currently learning advanced features of Microsoft Excel. Checkout my notes if you're interested!
+#### 🌱 I’m currently learning advanced features of Microsoft Excel. [Checkout my notes if you're interested!](https://github.com/ananya2801/Excel-Notes.git)
 #### 📫 How to reach me: Email! ananyarao2807@gmail.com
 #### 😄 Pronouns: She/Her
 #### ⚡ Fun fact: I can play the guitar 🎸 (Though I am terribly mediocre at it)
