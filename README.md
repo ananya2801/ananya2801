@@ -3,7 +3,7 @@
 **ananya2801/ananya2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About Me    <img src ="https://user-images.githubusercontent.com/67706291/119697565-5d382d80-be61-11eb-935d-9d056acacade.gif" width="50px">
-### Thanks 🥰 for viewing my profile! I am a third year 3️⃣ Undergraduate student studying Computer Science 👩🏽‍💻 with a  specialization in Software practice!📱
+### Thanks 🥰 for viewing my profile! I am a third year 3️⃣ Undergraduate student studying Computer Science 👩🏽‍💻 with specialization in Software practice!📱
 
 #### 🔭 I’m currently working on E-cycle! This is a personal project with a goal to reduce the global warming impact of Electronic waste.
 #### 🌱 I’m currently learning advanced features of Microsoft Excel. [Checkout my notes if you're interested!](https://github.com/ananya2801/Excel-Notes.git)
