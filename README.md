@@ -1,10 +1,9 @@
-![Webp net-gifmaker](https://user-images.githubusercontent.com/67706291/119688678-3ece3400-be59-11eb-92c8-03317c1455c4.gif)
+![IMG_4553](https://user-images.githubusercontent.com/67706291/119688855-67eec480-be59-11eb-8892-3e7e764af3e4.jpg)
 
 <!--
 **ananya2801/ananya2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
+### <div align="center"> Thanks 🥰 for viewing my profile! I am a third year 3️⃣ Undergraduate student studying Computer Science 👩🏽‍💻 with a specialization in Software practice!📱
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
