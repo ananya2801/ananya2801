@@ -1,4 +1,4 @@
-![correct](https://user-images.githubusercontent.com/67706291/119696994-d08d6f80-be60-11eb-9dc7-9e78ce995eb3.jpeg)
+
 <!--
 **ananya2801/ananya2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
